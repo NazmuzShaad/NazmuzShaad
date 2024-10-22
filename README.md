@@ -19,8 +19,9 @@ Hey I'm Shaad. I'm an aspiring web developer based in Rajshahi, Sirajganj. I mak
   </a>
 </p>
 
-<br>
----
+
+
+
 
 ## Skill Set:
 <div align="center">
@@ -53,6 +54,16 @@ Hey I'm Shaad. I'm an aspiring web developer based in Rajshahi, Sirajganj. I mak
 </td>
 </tr></table>
 </div>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/MarieLynneBlock/MarieLynneBlock/master/gifs/roadsign.gif" width="40" align="middle">
+  &nbsp;&nbsp;&nbsp; BUT FIRST THIS &nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/MarieLynneBlock/MarieLynneBlock/master/gifs/roadsign.gif" width="40" align="middle">  
+</p>
+Most of the code you stumble upon here is just me monkeying around... 🐒 <br>
+My GitHub primarily reflects my experimentation with new technologies, hobby projects, and learning endeavors. Please view it as a glimpse into my exploration 🧪 rather than a testament to my professional abilities 🦸.
+
+
 
 <br>
 <a href="mailto:nazmuzshaad@gmail.com"><img src="https://raw.githubusercontent.com/NazmuzShaad/NazmuzShaad/main/assets/nazmuz-shaad-contact.gif" alt="Contact Me"></a>
