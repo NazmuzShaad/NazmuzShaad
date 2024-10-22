@@ -55,10 +55,6 @@ Hey I'm Shaad. I'm an aspiring web developer based in Rajshahi, Sirajganj. I mak
 </tr></table>
 </div>
 
-<br>
-<br>
-<br>
----
 ---
 <p align="center">
   <img src="https://raw.githubusercontent.com/MarieLynneBlock/MarieLynneBlock/master/gifs/roadsign.gif" width="40" align="middle">
