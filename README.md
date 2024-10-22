@@ -5,6 +5,7 @@ Hey I'm Shaad. I'm an aspiring web developer based in Rajshahi, Sirajganj. I mak
 
 
 ## Skill Set:
+<div align="center">
 
 <table><tr><td valign="top" width="25%">
 
@@ -33,4 +34,4 @@ Hey I'm Shaad. I'm an aspiring web developer based in Rajshahi, Sirajganj. I mak
 </a>
 </td>
 </tr></table>
-
+</div>
