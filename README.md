@@ -37,4 +37,4 @@ Hey I'm Shaad. I'm an aspiring web developer based in Rajshahi, Sirajganj. I mak
 </div>
 
 <br>
-<a href="mailto:nazmuzshaad@gmail.com"><img src="https://raw.githubusercontent.com/NazmuzShaad/NazmuzShaad/assets/nazmuz-shaad-contact.gif" alt="Contact Me"></a>
+<a href="mailto:nazmuzshaad@gmail.com"><img src="https://raw.githubusercontent.com/nazmuz-shaad/nazmuz-shaad/assets/nazmuz-shaad-contact.gif" alt="Contact Me"></a>
