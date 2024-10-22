@@ -8,7 +8,7 @@ Hey I'm Shaad. I'm an aspiring web developer based in Rajshahi, Sirajganj. I mak
 <!-- Streak -->
 <p align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=MarieLynneBlock&theme=nord&border_radius=4.5&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=450&card_height=200"/>
+    <img src="https://streak-stats.demolab.com?user=NazmuzShaad&theme=nord&border_radius=4.5&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=450&card_height=200"/>
   </a>
 </p>
 <br>
@@ -29,7 +29,7 @@ Hey I'm Shaad. I'm an aspiring web developer based in Rajshahi, Sirajganj. I mak
 <table><tr><td valign="top" width="25%">
 
 ### Frontend  
-<a href="https://github.com/tayyabadev">
+<a href="https://github.com/NazmuzShaad">
 <div align="center">  
        <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js&perline=4" /> 
 </div>
@@ -37,7 +37,7 @@ Hey I'm Shaad. I'm an aspiring web developer based in Rajshahi, Sirajganj. I mak
  </td><td valign="top" width="25%">
         
 ### Languages
-<a href="https://github.com/tayyabadev">
+<a href="https://github.com/NazmuzShaad">
 <div align="center">
        <img src="https://skillicons.dev/icons?i=c,js,cpp,java,python,&perline=4" /> 
 </div>
@@ -46,7 +46,7 @@ Hey I'm Shaad. I'm an aspiring web developer based in Rajshahi, Sirajganj. I mak
 </td><td valign="top" width="25%">
   
 ### Others
-<a href="https://github.com/tayyabadev">
+<a href="https://github.com/NazmuzShaad">
 <div align="center">
        <img src="https://skillicons.dev/icons?i=git,github,npm,figma,vscode,vercel,discord,vscodeqt&perline=4" /> 
 </div>
