@@ -3,6 +3,7 @@
 Hey I'm Shaad. I'm an aspiring web developer based in Rajshahi, Sirajganj. I make anything from web projects, low level libraries, and DI/UX designs. I make interesting, helpful, sometimes questionable projects and aim to better the world with code. Even though the things I make are fairly insignificant I enjoy making them and hope it can be of use to others. I currently work as a web Developer at TinyFlow.
 
 
+
 ## Skill Set:
 
 <table><tr><td valign="top" width="25%">
@@ -23,3 +24,13 @@ Hey I'm Shaad. I'm an aspiring web developer based in Rajshahi, Sirajganj. I mak
 </a>
 
 </td><td valign="top" width="25%">
+  
+### Others
+<a href="https://github.com/tayyabadev">
+<div align="center">
+       <img src="https://skillicons.dev/icons?i=git,github,npm,figma,vscode,vercel,discord,vscodeqt&perline=4" /> 
+</div>
+</a>
+</td>
+</tr></table>
+
