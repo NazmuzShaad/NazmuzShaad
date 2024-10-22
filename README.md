@@ -11,7 +11,6 @@ Hey I'm Shaad. I'm an aspiring web developer based in Rajshahi, Sirajganj. I mak
     <img src="https://streak-stats.demolab.com?user=NazmuzShaad&theme=nord&border_radius=4.5&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=450&card_height=200"/>
   </a>
 </p>
-<br>
 
 <!-- Visitors badge -->
 <p align="center">
@@ -20,7 +19,7 @@ Hey I'm Shaad. I'm an aspiring web developer based in Rajshahi, Sirajganj. I mak
   </a>
 </p>
 
-
+<br>
 ---
 
 ## Skill Set:
