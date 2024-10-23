@@ -69,7 +69,6 @@ My GitHub primarily reflects my experimentation with new technologies, hobby pro
 ---
 <br>
 <br>
-<br>
 
 <a href="mailto:nazmuzshaad@gmail.com"><img src="https://raw.githubusercontent.com/NazmuzShaad/NazmuzShaad/main/assets/nazmuz-shaad-contact.gif" alt="Contact Me"></a>
 
